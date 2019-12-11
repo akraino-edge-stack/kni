@@ -1,0 +1,4 @@
+# UUID                                                                 	Group Name
+#
+d09c651da488761749ac06850b27da2c0293c375                               	Administrators
+ldap:cn=akraino-gerrit-kni-committers,ou=Groups,dc=freestandards,dc=org	ldap/akraino-gerrit-kni-committers
